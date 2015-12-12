@@ -1,0 +1,11 @@
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\bin\Release\ScriptProject.exe.config
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\bin\Release\ScriptProject.exe
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\bin\Release\ScriptProject.pdb
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\bin\Release\LeagueSharp.Common.dll
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\bin\Release\LeagueSharp.dll
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\bin\Release\SharpDX.dll
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\bin\Release\clipper_library.dll
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\bin\Release\LeagueSharp.Sandbox.dll
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\obj\Debug\ScriptProject.exe
+C:\Users\Reece\Documents\Visual Studio 2015\Projects\ScriptProject\ScriptProject\obj\Debug\ScriptProject.pdb
